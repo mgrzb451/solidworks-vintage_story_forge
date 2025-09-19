@@ -1,0 +1,3 @@
+﻿"pinion_d" = 50'Pinion OD
+"wheel_s"= 500'Small Pinion Wheel OD
+"wheel_l"= 20000'Large pinion wheel OD
